@@ -14,6 +14,12 @@ I am focusing on building strong Python fundamentals with consistent practice.
   - Convert data types
   - Perform simple calculations
   - Check data types using type()
+ 
+- Day 03: Conditional Statements  
+  - Used if, elif, else  
+  - Programs based on real situations  
+    (even/odd, pass/fail, voting eligibility, grading)
+
 
 ## Purpose of this Repository
 - Practice Python regularly
