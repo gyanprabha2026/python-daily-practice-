@@ -3,6 +3,7 @@
 This repository contains my daily Python learning journey.
 I am focusing on building strong Python fundamentals with consistent practice.
 
+
 ## Daily Progress
 
 - Day 01: Hello World  
@@ -19,6 +20,11 @@ I am focusing on building strong Python fundamentals with consistent practice.
   - Used if, elif, else  
   - Programs based on real situations  
     (even/odd, pass/fail, voting eligibility, grading)
+
+- Day 04: Loops  
+  - Used for loop and while loop  
+  - Programs to print numbers, calculate sum, multiplication table  
+  - Worked on sum of digits using while loop
 
 
 ## Purpose of this Repository
