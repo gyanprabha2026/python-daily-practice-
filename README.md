@@ -26,6 +26,11 @@ I am focusing on building strong Python fundamentals with consistent practice.
   - Programs to print numbers, calculate sum, multiplication table  
   - Worked on sum of digits using while loop
 
+- Day 05: Functions  
+  - Created reusable functions  
+  - Used parameters and return values  
+  - Converted previous logic into functions
+
 
 ## Purpose of this Repository
 - Practice Python regularly
