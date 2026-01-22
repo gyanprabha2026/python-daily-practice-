@@ -31,6 +31,11 @@ I am focusing on building strong Python fundamentals with consistent practice.
   - Used parameters and return values  
   - Converted previous logic into functions
 
+- Day 06: Lists  
+  - Performed basic list operations  
+  - Practiced add, remove, and aggregation functions  
+  - Solved runner-up score problem using lists
+
 
 ## Purpose of this Repository
 - Practice Python regularly
