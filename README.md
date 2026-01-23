@@ -36,6 +36,12 @@ I am focusing on building strong Python fundamentals with consistent practice.
   - Practiced add, remove, and aggregation functions  
   - Solved runner-up score problem using lists
 
+- Day 07: Tuples  
+  - Explored tuple immutability  
+  - Used packing and unpacking  
+  - Applied tuples in swapping and functions  
+  - Worked with nested tuples
+
 
 ## Purpose of this Repository
 - Practice Python regularly
