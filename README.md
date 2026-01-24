@@ -41,6 +41,12 @@ I am focusing on building strong Python fundamentals with consistent practice.
   - Used packing and unpacking  
   - Applied tuples in swapping and functions  
   - Worked with nested tuples
+ 
+- Day 08: Dictionaries  
+  - Worked with key-value pairs  
+  - Added, updated, and accessed dictionary data  
+  - Used loops and dictionary methods  
+  - Implemented a simple word count program    
 
 
 ## Purpose of this Repository
