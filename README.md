@@ -48,6 +48,11 @@ I am focusing on building strong Python fundamentals with consistent practice.
   - Used loops and dictionary methods  
   - Implemented a simple word count program    
 
+- Day 09: Sets  
+  - Worked with unique elements  
+  - Practiced add, remove, and discard methods  
+  - Used set operations like union and intersection  
+  - Removed duplicates from a list using set
 
 ## Purpose of this Repository
 - Practice Python regularly
