@@ -53,6 +53,12 @@ I am focusing on building strong Python fundamentals with consistent practice.
   - Practiced add, remove, and discard methods  
   - Used set operations like union and intersection  
   - Removed duplicates from a list using set
+    
+- Day 10: Strings  
+  - Practiced string indexing and slicing  
+  - Used common string methods  
+  - Implemented word count and string reversal
+
 
 ## Purpose of this Repository
 - Practice Python regularly
