@@ -59,6 +59,12 @@ I am focusing on building strong Python fundamentals with consistent practice.
   - Used common string methods  
   - Implemented word count and string reversal
 
+- Day 11: Functions  
+  - Learned how to write reusable code using functions  
+  - Understood parameters, arguments and return values  
+  - Practiced real-life problems using functions  
+  - Focused on clean and readable code
+
 
 ## Purpose of this Repository
 - Practice Python regularly
