@@ -65,6 +65,12 @@ I am focusing on building strong Python fundamentals with consistent practice.
   - Practiced real-life problems using functions  
   - Focused on clean and readable code
 
+- Day 12: Dictionaries (Advanced)  
+  - Worked with nested dictionaries  
+  - Solved real-world problems like word frequency and inventory tracking  
+  - Built student result and topper analysis logic  
+  - Practiced data filtering and dictionary merging  
+
 
 ## Purpose of this Repository
 - Practice Python regularly
