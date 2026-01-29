@@ -71,6 +71,12 @@ I am focusing on building strong Python fundamentals with consistent practice.
   - Built student result and topper analysis logic  
   - Practiced data filtering and dictionary merging  
 
+- Day 13: Digit Based Problems  
+  - Solved classic digit manipulation problems  
+  - Implemented logic for palindrome and Armstrong numbers  
+  - Practiced reversing numbers and digit calculations  
+  - Focused on problem-solving using loops and functions  
+
 
 ## Purpose of this Repository
 - Practice Python regularly
