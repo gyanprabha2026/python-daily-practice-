@@ -77,6 +77,12 @@ I am focusing on building strong Python fundamentals with consistent practice.
   - Practiced reversing numbers and digit calculations  
   - Focused on problem-solving using loops and functions  
 
+- Day 14: Number Problems  
+  - Practiced prime, GCD and LCM logic  
+  - Generated prime numbers using optimized approach  
+  - Solved perfect and strong number problems  
+  - Improved mathematical problem-solving skills  
+
 
 ## Purpose of this Repository
 - Practice Python regularly
