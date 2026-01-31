@@ -83,6 +83,12 @@ I am focusing on building strong Python fundamentals with consistent practice.
   - Solved perfect and strong number problems  
   - Improved mathematical problem-solving skills  
 
+- Day 15: Pattern Problems  
+  - Practiced star, number and alphabet patterns  
+  - Used nested loops and ASCII value logic  
+  - Built triangle, pyramid and sequence-based patterns  
+  - Improved pattern visualization skills  
+
 
 ## Purpose of this Repository
 - Practice Python regularly
