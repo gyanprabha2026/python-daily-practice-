@@ -89,6 +89,12 @@ I am focusing on building strong Python fundamentals with consistent practice.
   - Built triangle, pyramid and sequence-based patterns  
   - Improved pattern visualization skills  
 
+- Day 16: Recursion  
+  - Learned recursion basics and base case handling  
+  - Solved factorial, Fibonacci and sum problems  
+  - Implemented digit counting and number reversal using recursion  
+  - Improved recursive thinking and logic building  
+
 
 ## Purpose of this Repository
 - Practice Python regularly
