@@ -95,6 +95,12 @@ I am focusing on building strong Python fundamentals with consistent practice.
   - Implemented digit counting and number reversal using recursion  
   - Improved recursive thinking and logic building  
 
+- Day 17: Searching and Sorting  
+  - Implemented linear and binary search algorithms  
+  - Practiced bubble, selection and insertion sorting  
+  - Understood time-based logic for searching and sorting  
+  - Improved algorithmic thinking  
+
 
 ## Purpose of this Repository
 - Practice Python regularly
