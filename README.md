@@ -101,6 +101,11 @@ I am focusing on building strong Python fundamentals with consistent practice.
   - Understood time-based logic for searching and sorting  
   - Improved algorithmic thinking  
 
+- Day 18: Time Complexity  
+  - Learned Big O notation basics  
+  - Understood constant, linear, quadratic and logarithmic time  
+  - Analyzed time complexity using real code examples  
+  - Improved algorithm efficiency awareness  
 
 ## Purpose of this Repository
 - Practice Python regularly
