@@ -107,6 +107,12 @@ I am focusing on building strong Python fundamentals with consistent practice.
   - Analyzed time complexity using real code examples  
   - Improved algorithm efficiency awareness  
 
+- Day 19: Space Complexity  
+  - Learned space complexity concepts  
+  - Compared constant and linear space usage  
+  - Understood recursion stack memory  
+  - Practiced in-place algorithms  
+
 ## Purpose of this Repository
 - Practice Python regularly
 - Improve problem-solving skills
