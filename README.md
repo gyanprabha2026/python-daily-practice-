@@ -113,6 +113,13 @@ I am focusing on building strong Python fundamentals with consistent practice.
   - Understood recursion stack memory  
   - Practiced in-place algorithms  
 
+- Day 20: Stack  
+  - Learned stack implementation using lists  
+  - Practiced push, pop and peek operations  
+  - Solved string reversal and balanced parentheses problems  
+  - Understood LIFO data structure concept  
+
+
 ## Purpose of this Repository
 - Practice Python regularly
 - Improve problem-solving skills
