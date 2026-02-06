@@ -119,6 +119,12 @@ I am focusing on building strong Python fundamentals with consistent practice.
   - Solved string reversal and balanced parentheses problems  
   - Understood LIFO data structure concept  
 
+- Day 21: Queue  
+  - Learned queue data structure and FIFO principle  
+  - Implemented enqueue, dequeue and peek operations  
+  - Simulated real-life ticket system using queue  
+  - Strengthened understanding of linear data structures  
+
 
 ## Purpose of this Repository
 - Practice Python regularly
