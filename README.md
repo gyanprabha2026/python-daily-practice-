@@ -125,6 +125,12 @@ I am focusing on building strong Python fundamentals with consistent practice.
   - Simulated real-life ticket system using queue  
   - Strengthened understanding of linear data structures  
 
+- Day 22: Linked List  
+  - Learned singly linked list structure  
+  - Implemented insertion at beginning and end  
+  - Practiced node deletion and traversal  
+  - Understood pointer-based data storage  
+
 
 ## Purpose of this Repository
 - Practice Python regularly
