@@ -131,6 +131,12 @@ I am focusing on building strong Python fundamentals with consistent practice.
   - Practiced node deletion and traversal  
   - Understood pointer-based data storage  
 
+- Day 23: Linked List (Basic Problems)  
+  - Practiced traversal and node counting  
+  - Implemented search operation in linked list  
+  - Found middle element using slow and fast pointers  
+  - Strengthened linked list fundamentals  
+
 
 ## Purpose of this Repository
 - Practice Python regularly
