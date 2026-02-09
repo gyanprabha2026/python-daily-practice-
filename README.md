@@ -137,6 +137,12 @@ I am focusing on building strong Python fundamentals with consistent practice.
   - Found middle element using slow and fast pointers  
   - Strengthened linked list fundamentals  
 
+- Day 24: Linked List (Advanced Problems)  
+  - Reversed linked list using iterative approach  
+  - Detected cycle using Floyd’s algorithm  
+  - Removed nth node from end using two pointers  
+  - Used dummy node for edge case handling  
+
 
 ## Purpose of this Repository
 - Practice Python regularly
