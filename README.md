@@ -143,6 +143,12 @@ I am focusing on building strong Python fundamentals with consistent practice.
   - Removed nth node from end using two pointers  
   - Used dummy node for edge case handling  
 
+- Day 25: Recursion  
+  - Printed numbers using recursion  
+  - Calculated factorial and fibonacci  
+  - Solved sum of digits using recursion  
+  - Checked palindrome using recursion  
+
 
 ## Purpose of this Repository
 - Practice Python regularly
