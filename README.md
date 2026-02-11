@@ -149,6 +149,12 @@ I am focusing on building strong Python fundamentals with consistent practice.
   - Solved sum of digits using recursion  
   - Checked palindrome using recursion  
 
+- Day 26: Recursion Advanced & Backtracking  
+  - Generated subsets using include/exclude method  
+  - Generated permutations using backtracking  
+  - Solved climbing stairs problem  
+  - Generated binary strings recursively  
+
 
 ## Purpose of this Repository
 - Practice Python regularly
