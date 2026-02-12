@@ -153,8 +153,13 @@ I am focusing on building strong Python fundamentals with consistent practice.
   - Generated subsets using include/exclude method  
   - Generated permutations using backtracking  
   - Solved climbing stairs problem  
-  - Generated binary strings recursively  
-
+  - Generated binary strings recursively
+    
+- Day 27: Time & Space Complexity in Recursion  
+  - Analyzed factorial and fibonacci complexity  
+  - Understood exponential recursion growth  
+  - Learned call stack space complexity  
+  - Practiced identifying recursive patterns  
 
 ## Purpose of this Repository
 - Practice Python regularly
