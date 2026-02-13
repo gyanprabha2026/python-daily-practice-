@@ -161,6 +161,13 @@ I am focusing on building strong Python fundamentals with consistent practice.
   - Learned call stack space complexity  
   - Practiced identifying recursive patterns  
 
+- Day 28: Memoization & Dynamic Programming Intro
+  - Optimized Fibonacci using memoization
+  - Converted recursive solution to bottom-up DP
+  - Learned space optimization in DP
+  - Reduced time complexity from O(2^n) to O(n)
+
+
 ## Purpose of this Repository
 - Practice Python regularly
 - Improve problem-solving skills
