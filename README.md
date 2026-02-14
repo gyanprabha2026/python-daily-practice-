@@ -167,6 +167,11 @@ I am focusing on building strong Python fundamentals with consistent practice.
   - Learned space optimization in DP
   - Reduced time complexity from O(2^n) to O(n)
 
+- Day 29: Backtracking (Rat in a Maze)
+  - Implemented maze path finding using recursion
+  - Learned choice → explore → undo pattern
+  - Understood exponential time complexity of backtracking
+
 
 ## Purpose of this Repository
 - Practice Python regularly
