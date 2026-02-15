@@ -172,6 +172,12 @@ I am focusing on building strong Python fundamentals with consistent practice.
   - Learned choice → explore → undo pattern
   - Understood exponential time complexity of backtracking
 
+- Day 30: N-Queens (Classic Backtracking)
+  - Solved N-Queens using recursion
+  - Implemented column and diagonal safety checks
+  - Learned exponential complexity of backtracking problems
+  - Stored multiple valid board configurations
+
 
 ## Purpose of this Repository
 - Practice Python regularly
