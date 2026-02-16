@@ -178,6 +178,12 @@ I am focusing on building strong Python fundamentals with consistent practice.
   - Learned exponential complexity of backtracking problems
   - Stored multiple valid board configurations
 
+- Day 31: Binary Tree Basics
+  - Created Node class
+  - Implemented inorder, preorder, postorder traversal
+  - Built sample tree manually
+  - Learned DFS traversal patterns
+
 
 ## Purpose of this Repository
 - Practice Python regularly
