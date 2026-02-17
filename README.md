@@ -184,6 +184,12 @@ I am focusing on building strong Python fundamentals with consistent practice.
   - Built sample tree manually
   - Learned DFS traversal patterns
 
+- Day 32: Binary Tree BFS & Height
+  - Implemented level order traversal using queue
+  - Calculated height of binary tree
+  - Counted total number of nodes
+  - Understood BFS vs DFS difference
+
 
 ## Purpose of this Repository
 - Practice Python regularly
