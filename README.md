@@ -190,6 +190,13 @@ I am focusing on building strong Python fundamentals with consistent practice.
   - Counted total number of nodes
   - Understood BFS vs DFS difference
 
+- Day 33: Binary Search Tree (BST)
+  - Implemented insert operation
+  - Implemented search operation
+  - Used inorder traversal for sorted output
+  - Found minimum and maximum values
+  - Learned BST property and complexity analysis
+
 
 ## Purpose of this Repository
 - Practice Python regularly
