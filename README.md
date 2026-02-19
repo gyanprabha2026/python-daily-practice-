@@ -197,6 +197,12 @@ I am focusing on building strong Python fundamentals with consistent practice.
   - Found minimum and maximum values
   - Learned BST property and complexity analysis
 
+- Day 34: Delete Node in BST
+  - Implemented deletion in BST
+  - Handled 3 cases (leaf, one child, two children)
+  - Used inorder successor logic
+  - Strengthened BST problem-solving skills
+
 
 ## Purpose of this Repository
 - Practice Python regularly
