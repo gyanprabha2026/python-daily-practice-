@@ -203,6 +203,12 @@ I am focusing on building strong Python fundamentals with consistent practice.
   - Used inorder successor logic
   - Strengthened BST problem-solving skills
 
+- Day 35: Heap (Priority Queue)
+  - Learned min heap property
+  - Used heapq module in Python
+  - Implemented push and pop operations
+  - Solved Top K largest and smallest elements problem
+  - Understood heap time complexity
 
 ## Purpose of this Repository
 - Practice Python regularly
