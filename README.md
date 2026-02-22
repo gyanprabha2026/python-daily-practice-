@@ -210,6 +210,13 @@ I am focusing on building strong Python fundamentals with consistent practice.
   - Solved Top K largest and smallest elements problem
   - Understood heap time complexity
 
+- Day 36: Advanced Tree Problems
+  - Implemented Lowest Common Ancestor (LCA)
+  - Solved Maximum Path Sum problem
+  - Used optimized recursive approach
+  - Strengthened tree recursion techniques
+ 
+    
 ## Purpose of this Repository
 - Practice Python regularly
 - Improve problem-solving skills
