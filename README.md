@@ -216,7 +216,13 @@ I am focusing on building strong Python fundamentals with consistent practice.
   - Used optimized recursive approach
   - Strengthened tree recursion techniques
  
-    
+- Day 37: Two Pointer Technique
+  - Reversed array using two pointers
+  - Checked palindrome string
+  - Solved pair sum problem in sorted array
+  - Learned how to reduce time complexity from O(n²) to O(n)
+ 
+        
 ## Purpose of this Repository
 - Practice Python regularly
 - Improve problem-solving skills
