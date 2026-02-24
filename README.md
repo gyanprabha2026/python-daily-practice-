@@ -221,7 +221,14 @@ I am focusing on building strong Python fundamentals with consistent practice.
   - Checked palindrome string
   - Solved pair sum problem in sorted array
   - Learned how to reduce time complexity from O(n²) to O(n)
- 
+
+ - Day 38: String Practice
+  - Reversed string using slicing
+  - Counted vowels and consonants
+  - Checked anagram using sorting
+  - Found first non-repeating character
+  - Improved string manipulation skills
+    
         
 ## Purpose of this Repository
 - Practice Python regularly
