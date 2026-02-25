@@ -228,7 +228,13 @@ I am focusing on building strong Python fundamentals with consistent practice.
   - Checked anagram using sorting
   - Found first non-repeating character
   - Improved string manipulation skills
-    
+
+- Day 39: Sliding Window Technique
+  - Implemented maximum sum subarray of size K
+  - Solved longest substring without repeating characters
+  - Reduced time complexity from O(n²) to O(n)
+  - Understood dynamic window adjustment logic
+ 
         
 ## Purpose of this Repository
 - Practice Python regularly
