@@ -235,7 +235,13 @@ I am focusing on building strong Python fundamentals with consistent practice.
   - Reduced time complexity from O(n²) to O(n)
   - Understood dynamic window adjustment logic
  
-        
+ - Day 40: Dynamic Programming Intro
+  - Learned difference between recursion and DP
+  - Implemented Fibonacci using memoization and tabulation
+  - Solved climbing stairs problem
+  - Understood time complexity improvements
+
+           
 ## Purpose of this Repository
 - Practice Python regularly
 - Improve problem-solving skills
