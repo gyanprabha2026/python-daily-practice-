@@ -241,6 +241,12 @@ I am focusing on building strong Python fundamentals with consistent practice.
   - Solved climbing stairs problem
   - Understood time complexity improvements
 
+- Day 41: 0/1 Knapsack Problem
+  - Implemented recursive solution
+  - Built DP tabulation table
+  - Learned include/exclude decision logic
+  - Understood O(nW) complexity
+    
            
 ## Purpose of this Repository
 - Practice Python regularly
