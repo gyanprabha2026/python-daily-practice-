@@ -247,7 +247,13 @@ I am focusing on building strong Python fundamentals with consistent practice.
   - Learned include/exclude decision logic
   - Understood O(nW) complexity
     
-           
+- Day 42: Longest Common Subsequence (LCS)
+  - Implemented recursive solution
+  - Built DP tabulation matrix
+  - Understood diagonal match logic
+  - Learned O(m × n) dynamic programming approach
+ 
+               
 ## Purpose of this Repository
 - Practice Python regularly
 - Improve problem-solving skills
