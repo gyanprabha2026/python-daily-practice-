@@ -253,7 +253,13 @@ I am focusing on building strong Python fundamentals with consistent practice.
   - Understood diagonal match logic
   - Learned O(m × n) dynamic programming approach
  
-               
+- Day 43: Coin Change (Minimum Coins)
+  - Implemented recursive solution
+  - Built bottom-up DP solution
+  - Learned unbounded knapsack pattern
+  - Time Complexity: O(amount × n)
+ 
+                   
 ## Purpose of this Repository
 - Practice Python regularly
 - Improve problem-solving skills
