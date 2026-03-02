@@ -259,7 +259,13 @@ I am focusing on building strong Python fundamentals with consistent practice.
   - Learned unbounded knapsack pattern
   - Time Complexity: O(amount × n)
  
-                   
+- Day 44: Longest Increasing Subsequence
+  - Implemented recursive solution
+  - Built O(n^2) DP solution
+  - Learned O(n log n) binary search optimization
+  - Strengthened DP understanding
+ 
+                     
 ## Purpose of this Repository
 - Practice Python regularly
 - Improve problem-solving skills
