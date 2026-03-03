@@ -265,7 +265,13 @@ I am focusing on building strong Python fundamentals with consistent practice.
   - Learned O(n log n) binary search optimization
   - Strengthened DP understanding
  
-                     
+ - Day 45: Graph Traversal
+  - Implemented BFS using queue
+  - Implemented DFS using recursion
+  - Learned O(V + E) complexity
+  - Understood traversal order differences
+
+                    
 ## Purpose of this Repository
 - Practice Python regularly
 - Improve problem-solving skills
